@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:adv_test/module/helper/api_helper.dart';
+import 'package:university_details/module/helper/api_helper.dart';
 import 'package:get/get.dart';
 
 class Splashcontroller extends GetxController{

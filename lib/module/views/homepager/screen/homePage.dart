@@ -1,4 +1,4 @@
-import 'package:adv_test/module/helper/api_helper.dart';
+import 'package:university_details/module/helper/api_helper.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {

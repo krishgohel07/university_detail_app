@@ -1,4 +1,4 @@
-import 'package:adv_test/module/views/splash/controller/splashcontroller.dart';
+import 'package:university_details/module/views/splash/controller/splashcontroller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

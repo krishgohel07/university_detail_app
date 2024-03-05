@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:adv_test/module/model/datamodel.dart';
+import 'package:university_details/module/model/datamodel.dart';
 import 'package:http/http.dart' as http;
 
 class APIHelper {
